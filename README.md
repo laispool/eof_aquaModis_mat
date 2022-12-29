@@ -1,13 +1,11 @@
 ## Hey there
 
-This is a script to run in Matlab
+This script is to apply the Empirical Orthogonal Functions (EOF)
+on remote sensing reflectance data and generate the Principal Components (PC)
 
-The scrip organize data from Ocean Color (Aqua MODIS sensor) in .nc
+The script organizes data from Ocean Color (Aqua MODIS sensor) in .nc
 (you can download your own data from https://oceancolor.gsfc.nasa.gov/)
 
-The main use for this scrip is to apply the Empirical Orthogonal Functions (EOF)
-on remote sensing reflectance and generate the Principal Components (PC)
-
-Everything you need to know for using it is written on comments.
+Everything you need to know for understanding it is written on the comments.
 
 **Enjoy**
